@@ -16,5 +16,3 @@
 ![](https://i.imgur.com/aluXidt.png)
 ## Additional 
 - Auto Claimer may be slow but it is still faster than manual swap
-
-
